@@ -49,6 +49,7 @@ public class FlightBooking {
             break;
            }
     }
+    
     public BookingClass getBookingClass(){
              return this.bookingClass;
     }
