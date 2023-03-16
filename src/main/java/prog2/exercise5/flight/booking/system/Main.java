@@ -28,7 +28,6 @@ public class Main
         int adultPassengers = input.nextInt();
 
 
-
         LocalDate departureDate =  LocalDate.of(dYear, dMonth, dDay);
         LocalDate returnDate =  LocalDate.of(rYear, rMonth, rDay);
         input.close();
